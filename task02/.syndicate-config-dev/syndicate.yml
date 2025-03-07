@@ -1,0 +1,17 @@
+account_id: '196241772369'
+deploy_target_bucket: syndicate-education-platform-custom-sandbox-artifacts-sbox01/b3cf9707/task02
+expiration: 2025-03-07 08:42:35.228963+00:00
+extended_prefix_mode: true
+iam_permissions_boundary: arn:aws:iam::196241772369:policy/eo_role_boundary
+project_path: C:\Users\varun_mishra1\Desktop\work\synd\syndicate2\task02
+region: eu-central-1
+resources_prefix: cmtr-b3cf9707-
+tags:
+  run_id: JAP-11
+  run_type: stm
+  type: user
+  user_id: b3cf9707
+temp_aws_access_key_id: ASIAS3MHLZ5IQFQ5TLIC
+temp_aws_secret_access_key: gfu1TE1w5WRG1A6EL1By/oyEO2li/mvjUwR5L8ZJ
+temp_aws_session_token: IQoJb3JpZ2luX2VjEPj//////////wEaCXVzLWVhc3QtMSJIMEYCIQCTfykSTi7L8jbnnvXNKE2NVFoKiVG0yhTgHSyNOaP6RgIhANsd3jA3589/liUUrdfU8z8DG77pzTv4BV0MPsUrMcUeKtYCCEEQARoMMTk2MjQxNzcyMzY5IgxTkyYlNf970n3jN7sqswKUQUxYSeSv+aFNG1iB35kMUtqqMIvphJz8OJizQxhYnVZe7BzWm/R1Bh0Po8KIG5Jnapg6Jj3KBE/cU7DFimUjxOA84xxq29/IFtXMdMjsj1pVvOQ/xknwfD8ebYM2UOlOHYy9xwljnYaLDNgnSzWgB1J7C77orWsFj4VQRcphS3Nh0WeCgPjHEK+wK6iL/OvdKG3/rlXF0BE5EgH21Ga1lss2Gr0M5b8f/SRAuDR5LCVZ+krE6pxnsRUIeyD1fI7C9ZDYwN/PH52WRgZZYcdg+0St+FA64wy8j61R9roKXY0/qAuvsB04JDCZ1PwV2JMko6Og+om++vlFL9s8l7fzntlr/RabzOEPVMZPU4Fy7QNTf0zTfxlXllFyprudTaDlkpiUxfQn68WJh50T8U/t6ufhMIvLqr4GOpwBpfkR+r+CsAHgNa2LNUasf00B6Te3+Q7tkP9r7SuLjat6LG6/VcesqnYbu49vjzvnXP/poRfdYKCeusuiuLKN5ppIUzW8YjiwLO82LvO9dSHMFG+om0uqodTgLG9z2zAIGCPXo57AklcQkIVQLkZWOSHfQCLQ9+KUwhdoF4FWm1yMn3ZO/CbCZWdZTj7t3HRTIBGyC6slGuV1+SkT
+use_temp_creds: false
